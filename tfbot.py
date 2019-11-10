@@ -49,6 +49,9 @@ def fetchrecentvideos():
             time.sleep(5)
             continue
         break
+    else:
+        print("YouTube didn't answer after 5 tries, giving up...")
+        exit(254)
 
     # Request from YT's API
     request = youtube.activities().list(
