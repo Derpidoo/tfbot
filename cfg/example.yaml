@@ -1,0 +1,9 @@
+---
+subredditName: 'subreddit name'
+channelId: 'youtube channel id' # channel name
+minutesBetweenRun: 15
+youtube_developerKey: 'youtube api key'
+reddit_clientId: 'reddit client id' # reddit client app name
+reddit_clientSecret: 'reddit client api key'
+reddit_username: 'reddit username'
+reddit_password: 'reddit password'

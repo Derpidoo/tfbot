@@ -1,0 +1,4 @@
+yaml
+praw
+praw-OAuth2Util
+google-api-python-client
